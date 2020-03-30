@@ -112,11 +112,11 @@ gulp.task(taskNameCsv, function() {
 				"limit_units": convertToStringArray
 			}
 		}))
-		.pipe(gulp.dest('./data/json'))
+		.pipe(gulp.dest('./output/json'))
 		.pipe(insert.prepend('module.exports = '))
 		.pipe(insert.append(';'))
 		.pipe(ext_replace('.js'))
-		.pipe(gulp.dest('./data/module'))
+		.pipe(gulp.dest('./output/module'))
 });
 
 
