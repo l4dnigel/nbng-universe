@@ -9,6 +9,10 @@
   "keywords": [
     "NBNG"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ssac/nbng-universe"
+  },
   "author": "ssac",
   "license": "MIT",
   "devDependencies": {
