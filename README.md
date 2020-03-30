@@ -1,5 +1,5 @@
-# nbng-db
-Database for NBNG project
+# nbng-universe
+Universal scripts for NBNG Rebirth project
 
 ### Setup
 $ npm install
