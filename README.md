@@ -1,13 +1,13 @@
 # nbng-db
 Database for NBNG project
 
-# Setup
+### Setup
 $ npm install
 
-# Each time ./csv/*.csv files get modified, run below scripts to update ./output folder
+### Each time ./csv/*.csv files get modified, run below scripts to update ./output folder
 $ gule csv
 
-# NEVER touch any thing inside ./output folder
+### NEVER touch any thing inside ./output folder
 
-# Test before publish
+### Test before publish
 $ npm run test
