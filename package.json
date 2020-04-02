@@ -1,6 +1,6 @@
 {
   "name": "nbng-universe",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Universal scripts for NBNG Rebirth project",
   "main": "index.js",
   "scripts": {
