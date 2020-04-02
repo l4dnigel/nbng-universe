@@ -42,5 +42,19 @@ module.exports = {
 		ANGER: 5,
 		HIDE: 6,
 		TAUNT: 7
-	}
+	},
+
+	STATUS: {
+		DISMISS: 0,
+		TALISMAN: 1,
+		BETRAY: 2,
+		MESS: 3,
+		DISABLED: 4
+	},
+
+	NATURE: {
+		DISMISS: 0,
+		UP: 1,
+		DOWN: 2
+	},
 }
